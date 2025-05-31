@@ -34,7 +34,7 @@
   margin: 8px 0 0;
   display: flex;
   column-gap: 20px;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
 }
 
@@ -118,7 +118,7 @@
   display: flex;
   max-width: 760px;
   margin: 0 auto;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
   gap: 40px;
   flex-wrap: wrap;
